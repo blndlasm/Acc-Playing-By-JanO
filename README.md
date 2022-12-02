@@ -1,9 +1,9 @@
-# Acc-Streaming-V13
-All Copyright By Rayan
+# Acc-Playing
+All Copyright By JanO
 
-<img src = "https://cdn.discordapp.com/avatars/841245687533535242/23ca80ab6d991de74b22f4a348a833b8.webp?size=2048"></div>
 
-Best Account Streaming Project V13  
+
+Best Account Playing Project 
 Dont Forget Give 🌟 Project And Thank You All
 
 # How To Use
@@ -17,7 +17,4 @@ Just Open ``config.json`` file and types tells you all the information how to us
 # Link My Discord Servers
 
 
-[White Developers](https://discord.gg/qtkPbKeDSV>
-)
-
-<a href="https://cdn.discordapp.com/avatars/841245687533535242/23ca80ab6d991de74b22f4a348a833b8.webp?size=2048"></a>
+[BLOOD LINE](https://discord.gg/aUT6yvJhAj)
